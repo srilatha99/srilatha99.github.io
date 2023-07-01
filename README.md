@@ -1,7 +1,5 @@
-# Complaint-Management-System
-Complaint Management System: | HTML, CSS, PHP, JavaScript, MYSQL
+# Portfolio Website.
 
-• Developed an Application which records the complaint, assigns an employee to the complaint, escalates the complaint
-and return the status of a complaint. MYSQL database is used to store details of the complaint.
-• Used HTML and CSS for designing UI which includes various scenarios like Homepage, Admin page, customer page and
-user page. Processed user-input using PHP to record, assign, and escalate and to return status of a complaint
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
