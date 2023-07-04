@@ -53,83 +53,67 @@ export const skills = [
 
 export const projects = {
   disclaimer:
-    "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
+    " ",
   webProjects: [
     {
-      projectName: "Programming Diaries",
+      projectName: "Multi-Dimensional-Database-Search",
       image: "images/programmingdiaries.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "A Web-based search engine that provides searching capabilities on any multi-dimensional data resource such as colleges, automobiles, etc. The Web application works on data coming from different domains describing entities in the respective domains.",
+      preview: "https://github.com/srilatha99/Multi-Dimensional-Database-Search",
+      techStack: ["HTML","CSS","Javascript","GraphQL","Python"],
     },
     {
-      projectName: "Find Your Bank",
+      projectName: "Complaint Management System",
       image: "images/findyourbank.png",
       summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-    },
-    {
-      projectName: "Web Portfolio",
-      image: "images/portfolio.png",
-      summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
+      "Developed an Application which records the complaint, assigns an employee to the complaint, escalates the complaint and return the status of a complaint. MYSQL database is used to store details of the complaint. Used HTML and CSS for designing UI which includes various scenarios like Homepage, Admin page, customer page and user page. Processed user-input using PHP to record, assign, and escalate and to return status of a complaint",
+      preview: "https://github.com/srilatha99/Complaint-Management-System",
+      techStack: ["PHP","JavScript","CSS","HTML","MYSQL"],
     },
   ],
   softwareProjects: [
     {
-      projectName: "Pizza Ordering ChatBot",
+      projectName: "BulkyBook CRUD Application",
       image: "images/pizzaorderchatbot.png",
       summary:
-        "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-      techStack: ["Dailogflow", "Firebase"],
+        "Asp. Net MVC Project for CRUD operations on a MS SQL server databse. This project performs create, insert, update, delete opearations on MS SQL database(books database) and it uses model-view-controller architecture.",
+      preview: "https://github.com/srilatha99/BulkyBook/tree/master/BulkyBookWeb",
+      techStack: [".Net","ASP.Net MVC", "MS SQL Server"],
     },
     {
-      projectName: "WhatsApp-Bot",
+      projectName: "MagicVilla_API CRUD Application",
       image: "images/whatsappbot.jpg",
       summary:
-        "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-      techStack: ["Selenium", "Chrome Webdriver", "Python"],
+        "Restful Web APIs which allows CRUD operations on the data. This project uses httppost,httpdelete, httpput, httpget operations to allow CRUD operations on the database of Villas",
+      preview: "https://github.com/srilatha99/MagicVilla_API/tree/master/MagicVilla_VillaAPI",
+      techStack:[".Net","ASP.Net Web API", "MS SQL Server"],
     },
     {
-      projectName: "Bill Generator",
+      projectName: "Retrieving data using ADO.Net objets",
       image: "images/billgenerator.png",
       summary:
-        "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
-      techStack: ["Tkinter", "Openxlpy", "Python"],
+        "In this project object data can be retrieved by calling stored procedures using System.sql in the sql server management studio and records can be be searched based on Id number.",
+      preview: "https://github.com/srilatha99/ADO.NETCore",
+      techStack: ["ADO.Net",".Net Core"],
     },
   ],
   androidProjects: [
     {
-      projectName: "NITW-CSE",
+      projectName: "Vehicle-accident-Risk-prediction-Model",
       image: "images/nitwcse.jpg",
       summary:
-        "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
-      techStack: ["JAVA", "XML", "Android"],
+        "Created a machine learning based model which aims at finding whether the vehicle is at the risk of accident by analysing real-life accidents data using Adaboost Classification Algorithm.",
+      preview: "https://github.com/srilatha99/Vehicle-accident-Risk-prediction-Model",
+      techStack: ["Python", "SMOTE", "One Hot Encoding"],
     },
     {
       projectName: "CareerHigh-App",
       image: "images/carrerhigh.png",
       summary:
-        "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-      techStack: ["JAVA", "XML", "Android"],
+        "ML model that automates the process of screening large number of applications received by DonorsChoose.org and determines if the project can be offered funding",
+      preview: "https://github.com/srilatha99/DonorsChoose.org-Application-screening-Python-Google-Collab-Pandas-Matplotlib-Scikit-learn",
+      techStack: ["Python","KNN","Naive Bayes"],
     },
   ],
   freelanceProjects: [
@@ -195,7 +179,7 @@ export const experience = [
 
 export const education = [
   {
-    title: "Masterss in Computer Science",
+    title: "Masters in Computer Science",
     duration: "2022 - 2023",
     subtitle: "Georgia State University",
     details: ["CGPA - 3.9"],
@@ -268,10 +252,6 @@ export const footer = [
         text: "Print this page",
         func: "window.print()",
       },
-      {
-        text: "Clone this page",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-      },
     ],
   },
   {
@@ -279,15 +259,7 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
-      },
-      {
-        text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
-      },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        link: "https://www.linkedin.com/in/srilathajammigu/",
       },
     ],
   },
