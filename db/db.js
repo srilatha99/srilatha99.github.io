@@ -151,7 +151,7 @@ export const experience = [
   },
   {
     title: "TATA Consultancy Services Pvt. Ltd.",
-    duration: "Aug 2020 - Nov 2021",
+    duration: "Sep 2019 - Nov 2021",
     subtitle: "Software Developer",
     details: [
       "Designed and Developed Web Services using .NET Core and ASP.NET MVC 5.0 for a UK based client",
@@ -165,7 +165,7 @@ export const experience = [
   },
   {
     title: "Relecura Technologies PVT LTD",
-    duration: "Aug 2019 - July 2020",
+    duration: "May 2019 - Aug 2019",
     subtitle: "SDE Intern",
     details: [
       "Developed C# scripts to automate tasks in products of Relecura like Techtracker,TechExplorer, Novelty etc.",
