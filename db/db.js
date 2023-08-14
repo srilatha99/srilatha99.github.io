@@ -1,6 +1,6 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Sri Latha Jammigumpula, a Software Engineer with a specialization in .Net Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
+  "I'm Sri Latha Jammigumpula, a Software Engineer with a specialization in .Net Applications. I have a passion for technology and consider myself a curious and enthusiastic developer.",
   "Apart from coding, I love to read, listen to music, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
@@ -147,7 +147,7 @@ export const experience = [
       "Successfully delivered lectures on Principles of Computer Science (Java) and provided tutoring to class of 40 students"
     ],
     tags: ["Bloomberg","Analytics","Excel","Java"],
-    icon: "heartbeat",
+    icon: "group",
   },
   {
     title: "TATA Consultancy Services Pvt. Ltd.",
