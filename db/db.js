@@ -1,6 +1,6 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Sri Latha Jammigumpula, a Software Engineer with a specialization in .Net Applications. I have a passion for technology and consider myself a curious and enthusiastic developer.",
+  "I'm Sri Latha Jammigumpula, a Software Engineer with a specialization in .Net and Python Applications. I have a passion for technology and consider myself a curious and enthusiastic developer.",
   "Apart from coding, I love to read, listen to music, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
