@@ -15,7 +15,7 @@ export const skills = [
   },
   {
     title: "Frameworks/Libraries",
-    skillName: ".NET Core, ASP.NET, ADO.NET,LINQ, Flask, ReactJS",
+    skillName: ".NET Core, ASP.NET, ADO.NET, LINQ, Flask, ReactJS",
     color: "6",
     percentage: "80",
   },
