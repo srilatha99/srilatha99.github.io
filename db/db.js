@@ -15,7 +15,7 @@ export const skills = [
   },
   {
     title: "Frameworks/Libraries",
-    skillName: ".NET Core, ASP.NET, ADO.NET, Flask, ReactJS",
+    skillName: ".NET Core, ASP.NET, ADO.NET,LINQ, Flask, ReactJS",
     color: "6",
     percentage: "80",
   },
@@ -33,7 +33,7 @@ export const skills = [
   },
   {
     title: "Databases",
-    skillName: "MongoDB, Postgres, MYSQL, Oracle , XML, JSON",
+    skillName: "MS SQL, MongoDB, Postgres, MYSQL, Oracle , XML, JSON",
     color: "3",
     percentage: "80",
   },
