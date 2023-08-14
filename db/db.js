@@ -27,7 +27,7 @@ export const skills = [
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA ",
+    skillName: "GitHub, JIRA, JENKINS ",
     color: "7",
     percentage: "70",
   },
